@@ -12,7 +12,7 @@ Using a Transistor to Drive a Motor
 
 #### Photo of completed project ####
 
-![Image](Desk Fan.jpg)
+![Image](deskfan.jpg)
 
 Here is the fan sequence whilst running. 
 
