@@ -2,20 +2,19 @@
 
 *Markdown reference: https://guides.github.com/features/mastering-markdown/*
 
-## Instructions ##
+## This is a Journal for Five Kitronik Experiments ##
 
-*For a selection of 5 inventor kit experiments that you choose, fill out the following sections.
+
 
 ### Experiment Four ###
 
 Using a Transistor to Drive a Motor
 
 #### Photo of completed project ####
-*In the code below, replace `missingimage.png` with the name of the image, which should be in the `kitexperiments` folder.*
 
-![Image](missingimage.png)
+![Image](Desk Fan.jpg)
 
-(Insert a caption here)
+Here is the fan sequence whilst running. 
 
 #### Reflection ####
 
