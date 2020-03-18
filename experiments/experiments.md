@@ -29,9 +29,9 @@ Wind Power
 #### Photo of completed project ####
 In the code below, replace imagemissing.jpg with the name of the image, which should be in the kitexperiments folder.
 
-![Image](missingimage.png)
+![Wind Power](https://user-images.githubusercontent.com/62095800/76947936-13e17980-6952-11ea-95cb-ba93d380fe5c.jpg)
 
-(Insert a caption here)
+This picture shows the completed Wind Power experiment whilst not in motion.
 
 #### Reflection ####
 
@@ -46,9 +46,9 @@ Making a Game using the Compass
 #### Photo of completed project ####
 In the code below, replace imagemissing.jpg with the name of the image, which should be in the kitexperiments folder.
 
-![Image](missingimage.png)
+![Compass](https://user-images.githubusercontent.com/62095800/76947944-16dc6a00-6952-11ea-9d2d-6cbe7893237d.jpg)
 
-(Insert a caption here)
+The compass experiment here is in mid-flash of the LED.
 
 #### Reflection ####
 
@@ -63,9 +63,9 @@ Making a Pedestrian Crossing
 #### Photo of completed project ####
 In the code below, replace imagemissing.jpg with the name of the image, which should be in the kitexperiments folder.
 
-![Image](missingimage.png)
+![Pedestrian Crossing](https://user-images.githubusercontent.com/62095800/76947967-2196ff00-6952-11ea-948e-20a92a1ca425.jpg)
 
-(Insert a caption here)
+This pedestrian crossing shows its initial stage. 
 
 #### Reflection ####
 
@@ -80,9 +80,9 @@ Making a Randomising Dice Roll
 #### Photo of completed project ####
 In the code below, replace imagemissing.jpg with the name of the image, which should be in the kitexperiments folder.
 
-![Image](missingimage.png)
+![Dice](https://user-images.githubusercontent.com/62095800/76947977-25c31c80-6952-11ea-9720-0068bfe2242d.jpg)
 
-(Insert a caption here)
+This is an answer of six on the randomising digital dice roller.
 
 #### Reflection ####
 
