@@ -29,7 +29,7 @@ Wind Power
 #### Photo of completed project ####
 In the code below, replace imagemissing.jpg with the name of the image, which should be in the kitexperiments folder.
 
-![Wind Power](https://user-images.githubusercontent.com/62095800/76947936-13e17980-6952-11ea-95cb-ba93d380fe5c.jpg)
+![Wind Power](https://user-images.githubusercontent.com/62095800/76948827-59527680-6953-11ea-9aff-a6b0231b2213.jpg)
 
 This picture shows the completed Wind Power experiment whilst not in motion.
 
