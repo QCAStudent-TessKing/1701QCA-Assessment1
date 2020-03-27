@@ -19,6 +19,53 @@ https://www.youtube.com/watch?v=2n6jDBSeso0
 
 This product serves as the inspiration for the aesthetics as well as some parts of the functional design such as the key and slider mechanics. However, due some material and process restrictions, the original mechanics had to be adapted to be suitable for use with the microbit. 
 
+### Makecode Microbit - Guitar ###
+It's more like a theremin, but at least it looks like a guitar!
+
+https://makecode.microbit.org/projects/guitar
+
+![Image](missingimage.png)
+
+The microbit guitar project presents some interesting concepts and explains well enough how to utilise some on board features like the light level sensor built into the microbit screen. I employed this demonstration as a way to add some versatility and variety to my own project. 
+ 
+### John Ferguson - Spike of Noise ###
+A touchable jumble of spikes that, on occassion, make noise.
+
+https://vimeo.com/298521980
+
+![Image](missingimage.png)
+
+I was inspired by the simplistic approach to interactivity on display here. Simple conductive material covers certain areas of the spikes which allow for the user's body to close the circuit between points. 
+
+### Anders Lind - LINES ###
+There are lines going in all dimensions.
+
+https://vimeo.com/298521980
+
+![Image](missingimage.png)
+
+While this example may be a little too far in the realm of impossibility for my project I felt inspired by the simplicity of the conceptual model. However complicated the actual working of this installation, the conceptual model is very similar to my project in that the action of touching a line (in some capacity) results in a sound being played. 
+
+
+### Piano Stairs ###
+Created originally by Volkswagen in the Odenplan subway station to encourage people to use the stairs.
+
+https://www.youtube.com/watch?v=2lXh2n0aPyw
+
+![Image](missingimage.png)
+
+This is another wonderful example of a simple concept coming together cohesively and achieves a goal well. 
+
+### Coplay ###
+Designed and created by Haoyi Xu and Sun Yuxuan to explore the outer constraints of music composition methodology. 
+
+https://www.youtube.com/watch?v=kVwK4axzPeg&feature=emb_logo
+
+![Image](missingimage.png)
+
+This is another wonderful example of a simple concept coming together cohesively and achieves a goal well. 
+
+
 ## Reading reflections ##
 *Reflective reading is an important part of actually making your reading worthwhile. Don't just read the words to understand what they say: read to see how the ideas in the text fit with and potentially change your existing knowledge and maybe even conceptual frameworks. We assume you can basically figure out what the readings mean, but the more important process is to understand how that changes what you think, particularly in the context of your project.*
 
@@ -76,11 +123,11 @@ There were many times during the production of my project where something went v
 
 *Complete the following information.*
 
-### Project title ###
+### "Kind-A-Works" Piano ###
 
 ### Project description ###
 
-*In a few sentences, describe what the project is and does, who it is for, and a typical use case.*
+This project is designed to be a completely portable, wireless musical instrument for impromptu jams by yourself or with friends. 
 
 ### Showcase image ###
 
@@ -96,7 +143,7 @@ There were many times during the production of my project where something went v
 
 ### Reflection ###
 
-*Describe the parts of your project you felt were most successful and the parts that could have done with improvement, whether in terms of outcome, process, or understanding.*
+In terms of my original goals I believe that I was somewhat successful. I got the general idea of the expansions I wanted to make across and works "kinda" well as a cohesive unit on its own.
 
 
 *What techniques, approaches, skills, or information did you find useful from other sources (such as the related projects you identified earlier)?*
