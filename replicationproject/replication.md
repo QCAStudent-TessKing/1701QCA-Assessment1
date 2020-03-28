@@ -1,8 +1,5 @@
-# Assessment 1: Replication project
+# Assessment 1: Replication project #
 
-*Fill out the following workbook with information relevant to your project.*
-
-*Markdown reference:* [https://guides.github.com/features/mastering-markdown/](http://guides.github.com/features/mastering-markdown/)
 
 ## Banana Piano ##
 Play notes with the microbit!
@@ -15,7 +12,7 @@ Piano
 
 https://www.youtube.com/watch?v=2n6jDBSeso0
 
-![Image](missingimage.png)
+![Nintendo Labo Piano](https://user-images.githubusercontent.com/62095800/77817888-011d3080-711a-11ea-9288-c3805395cab8.jpg)
 
 This product serves as the inspiration for the aesthetics as well as some parts of the functional design such as the key and slider mechanics. However, due some material and process restrictions, the original mechanics had to be adapted to be suitable for use with the microbit. 
 
@@ -24,7 +21,7 @@ It's more like a theremin, but at least it looks like a guitar!
 
 https://makecode.microbit.org/projects/guitar
 
-![Image](missingimage.png)
+![Guitar](https://user-images.githubusercontent.com/62095800/77817878-f8c4f580-7119-11ea-8c03-7040ed273508.png)
 
 The microbit guitar project presents some interesting concepts and explains well enough how to utilise some on board features like the light level sensor built into the microbit screen. I employed this demonstration as a way to add some versatility and variety to my own project. 
  
@@ -33,7 +30,7 @@ A touchable jumble of spikes that, on occassion, make noise.
 
 https://vimeo.com/298521980
 
-![Image](missingimage.png)
+![Spike of Noise](https://user-images.githubusercontent.com/62095800/77817871-f498d800-7119-11ea-8bbf-4cc655e7b65c.png)
 
 I was inspired by the simplistic approach to interactivity on display here. Simple conductive material covers certain areas of the spikes which allow for the user's body to close the circuit between points. 
 
@@ -42,7 +39,7 @@ There are lines going in all dimensions.
 
 https://vimeo.com/298521980
 
-![Image](missingimage.png)
+![Lines](https://user-images.githubusercontent.com/62095800/77817885-fbbfe600-7119-11ea-89e1-30b876f05d81.png)
 
 While this example may be a little too far in the realm of impossibility for my project I felt inspired by the simplicity of the conceptual model. However complicated the actual working of this installation, the conceptual model is very similar to my project in that the action of touching a line (in some capacity) results in a sound being played. 
 
@@ -52,7 +49,7 @@ Created originally by Volkswagen in the Odenplan subway station to encourage peo
 
 https://www.youtube.com/watch?v=2lXh2n0aPyw
 
-![PianoStairs](pianostairs.png)
+![Piano Stairs](https://user-images.githubusercontent.com/62095800/77817889-01b5c700-711a-11ea-82d0-61b7daa31924.jpg)
 
 This is another wonderful example of a simple concept coming together cohesively and achieves a goal well. 
 
@@ -61,15 +58,13 @@ Designed and created by Haoyi Xu and Sun Yuxuan to explore the outer constraints
 
 https://www.youtube.com/watch?v=kVwK4axzPeg&feature=emb_logo
 
-![Image](missingimage.png)
+![Coplay](https://user-images.githubusercontent.com/62095800/77817876-f6fb3200-7119-11ea-995e-5648c9384301.png)
 
 This is another wonderful example of a simple concept coming together cohesively and achieves a goal well. 
 
 
 ## Reading reflections ##
-*Reflective reading is an important part of actually making your reading worthwhile. Don't just read the words to understand what they say: read to see how the ideas in the text fit with and potentially change your existing knowledge and maybe even conceptual frameworks. We assume you can basically figure out what the readings mean, but the more important process is to understand how that changes what you think, particularly in the context of your project.*
 
-*For each of the assigned readings, answer the questions below.*
 
 ### Reading: Don Norman, The Design of Everyday Things, Chapter 1 (The Psychopathology of Everyday Things) ###
 
@@ -103,21 +98,60 @@ There were many times during the production of my project where something went v
 
 
 ## Interaction flowchart ##
-*Draw a flowchart of the interaction process in your project. Make sure you think about all the stages of interaction step-by-step. Also make sure that you consider actions a user might take that aren't what you intend in an ideal use case. Insert an image of it below. It might just be a photo of a hand-drawn sketch, not a carefully drawn digital diagram. It just needs to be legible.*
 
-![Image](missingimage.png)
+![Interactive Flow Chart](https://user-images.githubusercontent.com/62095800/77817927-3e81be00-711a-11ea-85cc-de114824b50b.jpg)
+
 
 ## Process documentation
 
-*In this section, include text and images that represent the development of your project including sources you've found (URLs and written references), choices you've made, sketches you've done, iterations completed, materials you've investigated, and code samples. Use the markdown reference for help in formatting the material.*
+![Original Thoughts](https://user-images.githubusercontent.com/62095800/77817923-3d509100-711a-11ea-9489-e5809b03db1d.jpg)
 
-*This should have quite a lot of information!*
+*Insert Subtitle Here*
 
-*There will likely by a dozen or so images of the project under construction. The images should help explain why you've made the choices you've made as well as what you have done. Use the code below to include images, and copy it for each image, updating the information for each.*
+![Original Designs 1](https://user-images.githubusercontent.com/62095800/77817928-3fb2eb00-711a-11ea-9fc3-8d6bf8f24957.jpg)
 
-![Code Iteration 1](replicationproject/Code/Code Iteration 1.jpg)
+*Insert Subtitle Here*
 
-*Include screenshots of the code you have used.*
+![Original Designs 2](https://user-images.githubusercontent.com/62095800/77817931-42154500-711a-11ea-8317-bbaba4a02c30.jpg)
+
+*Insert Subtitle Here*
+
+![Construction 1](https://user-images.githubusercontent.com/62095800/77817898-11351000-711a-11ea-9c2f-14909590d085.jpg)
+
+*Insert Subtitle Here*
+
+![Construction 2](https://user-images.githubusercontent.com/62095800/77817900-12663d00-711a-11ea-8e54-da0bca38e500.jpg)
+
+*Insert Subtitle Here*
+
+![Construction 3](https://user-images.githubusercontent.com/62095800/77817902-15612d80-711a-11ea-84bf-76bc479b6c32.jpg)
+
+*Insert Subtitle Here*
+
+![Construction 4](https://user-images.githubusercontent.com/62095800/77817903-15f9c400-711a-11ea-89f7-9b6960f277c6.jpg)
+
+*Insert Subtitle Here*
+
+![Construction 5](https://user-images.githubusercontent.com/62095800/77817907-1b570e80-711a-11ea-94df-db193deeea2e.jpg)
+
+*Insert Subtitle Here*
+
+![Construction 6](https://user-images.githubusercontent.com/62095800/77817908-1f832c00-711a-11ea-8c9e-17b20fcccaa2.jpg)
+
+*Insert Subtitle Here*
+
+![Code Iteration 1](https://user-images.githubusercontent.com/62095800/77817940-4e999d80-711a-11ea-8759-5f494c6e39f8.jpg)
+
+*Insert Subtitle Here*
+
+![Code Iteration 2](https://user-images.githubusercontent.com/62095800/77817941-4fcaca80-711a-11ea-8690-53d7cf2860d2.jpg)
+
+*Insert Subtitle Here*
+
+![Final Code](https://user-images.githubusercontent.com/62095800/77817938-4d687080-711a-11ea-80cf-21dfc6aca5ca.png)
+
+*Insert Subtitle Here*
+
 
 ## "Kind-A-Works" Piano ##
 
@@ -126,17 +160,18 @@ There were many times during the production of my project where something went v
 
 This project is designed to be a completely portable, wireless musical instrument for impromptu jams by yourself or with friends. It has a five note layout and is tuned to a 'C' pentatonic scale with revived analogue character and fuzz. Light permitting, you can take advantage of the on board pitch modulation using the sliding tab on the left side of the housing. In bright light, the pitches are an octave higher than in low light. The sliding tab allows for the pitch to smoothly glissando down to the lower octave.
 
+
 ### Showcase image ###
 
-*Try to capture the image as if it were in a portfolio, sales material, or project proposal. The project isn't likely to be something that finished, but practice making images that capture the project in that style.*
 
-![Image](missingimage.png)
+![Showcase](https://user-images.githubusercontent.com/62095800/77817862-ecd93380-7119-11ea-9c34-77b0f883c7d8.jpg)
 
 ### Additional view ###
 
 *Provide some other image that gives a viewer a different perspective on the project such as more about how it functions, the project in use, or something else.*
 
 ![Image](missingimage.png)
+
 
 ### Reflection ###
 
