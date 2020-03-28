@@ -158,14 +158,17 @@ There were many times during the production of my project where something went v
 
 *This time I was testing the feel of the sliding mechanism. I, too, was pleased with this result at this stage.*
 
+#### An Issue Arises ####
 
+![Testing 1](https://user-images.githubusercontent.com/62095800/77820479-55caa680-712e-11ea-8ccc-af66e76b2b28.jpg)
+
+*Here I encountered my first real problem. I had always thought that in order to trigger the pin to play the note I would simply touch a piece of aluminium foil on the key itself, but some testing found a flaw here. In the banana piano project, they used pin and ground in separate interactions to complete the circuit if you pressed both simultaneously. No matter what I did, this would never produce the same result with aluminium foil and my hands. When I tested it with the 3V it worked, so I decided to go with what worked unquestionably. This still left the problem of how to get one interaction to cause two "plates" of aluminium foil to make contact. This image was taken at the moment I realised I needed to make some modifications. 
 
 #### Assembled, Wired and Problem Solved ####
 
 ![Construction 6](https://user-images.githubusercontent.com/62095800/77817908-1f832c00-711a-11ea-8c9e-17b20fcccaa2.jpg)
 
-*I ran into a problem sometime after the previous stage and this one. In my original concept 
-
+*The problem is solved! This stage is quite a ways after the testing process and several improvements have been made. The most joyous of improvements is that I have a functioning mechanism for the depressing of a key to close the circuit. My solution was to utilise the functionality i had already built into my design: the tilting action of the keys. If I assumed that the neutral position of the keys was to be flat, once engaged the front end would obviously tilt down and the back end would tilt up. Here I had two choices, make contact from the front end of the key to the bottom of the housing or make the back end make contact with the 'roof' of the housing. I chose the latter to keep the 'magical' aesthetic continuous throughout the design and because it was easier to attach an extension to the roof than figure it out on the bottom. I found that the end edge wasn't enough surface area to guarantee solid contact with the aluminium foil attached to the extended roof. So I used small squares attached to that back edge, covered in aluminium foil to create the surface area that I needed. I also left the squares somewhat flexible so that they would press against the roof and become flat with it, ensuring contact. With that solution I moved onto wiring everything together for some more testing, which was somewhat interesting with aluminium foil.*
 
 ### Code ###
 
@@ -174,19 +177,19 @@ There were many times during the production of my project where something went v
 
 ![Code Iteration 1](https://user-images.githubusercontent.com/62095800/77817940-4e999d80-711a-11ea-8759-5f494c6e39f8.jpg)
 
-*Insert Subtitle Here*
+*This was my original statement for one pin that was copied for the other pins to test that contact would equal to a desired note. This didn't turn out as such, my best guesses were that I was using pins that were tied to other functions and confusing the microbit when asked to read their values and that the rest function wasn't isolated to that singular if statement; that it was reading 1 for, say, the 2nd pin but getting confused because the 1st pin in the chain wasn't reading above 0 and prioitising what came first. I will say however, that this code worked perfectly during the online simulations with multiple pins.* 
 
 #### Code Testing 2 #### 
 
 ![Code Iteration 2](https://user-images.githubusercontent.com/62095800/77817941-4fcaca80-711a-11ea-8690-53d7cf2860d2.jpg)
 
-*Insert Subtitle Here*
+*I included this attempt to fix the problem to show the wonders of troubleshooting. I started with what my first thought to the issue was, it wasn't that, so I began thinking about how microbit parses what I program it to and thought that maybe it was getting confused because the 'rest' function was specifically for musical functions and all of the 'ring tones' are musical. This didn't solve my issue, hence why I looked through the signal chain for a more reasonable answer. A learned lesson.*
 
 #### Final Code ####
 
 ![Final Code](https://user-images.githubusercontent.com/62095800/77817938-4d687080-711a-11ea-80cf-21dfc6aca5ca.png)
 
-*Insert Subtitle Here*
+*After much testing and failures I arrived at this conclusive code, which (mostly) solved all of my code-related problems. I decided that an extended 'if else' statement was far more simple than the way I was thinking of it, it couldn't have supported polyphony anyway so the idea of creating a singular argument for each note was inefficient to begin with. This way, there's no favouritism over which statement came first. Additionally, I included the light level mapping from the Guitar project but changed a few things to keep it the most simple. Instead of multiplying the light level (0 - 255) by 1.02743 to get 262 (the same pitch as C 4, Note 1) I mapped the input values to 0 - 1. Mathematically, simply dividing light level by light level (255). Then per note basis, ringing the tone (original note + (Variable Light * original note)) to achieve a pitch modulation range of 1 octave per note. The actual value that the variable light multiplies by differs slightly from the original note in keeping with the standard equal-tempered tuning system.*
 
 
 ## "Kind-A-Works" Piano ##
