@@ -119,11 +119,8 @@ There were many times during the production of my project where something went v
 
 *Include screenshots of the code you have used.*
 
-## Project outcome ##
+## "Kind-A-Works" Piano ##
 
-*Complete the following information.*
-
-### "Kind-A-Works" Piano ###
 
 ### Project description ###
 
