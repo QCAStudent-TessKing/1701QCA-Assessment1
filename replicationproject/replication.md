@@ -52,7 +52,7 @@ Created originally by Volkswagen in the Odenplan subway station to encourage peo
 
 https://www.youtube.com/watch?v=2lXh2n0aPyw
 
-![Image](missingimage.png)
+![PianoStairs](pianostairs.png)
 
 This is another wonderful example of a simple concept coming together cohesively and achieves a goal well. 
 
