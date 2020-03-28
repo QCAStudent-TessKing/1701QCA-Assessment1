@@ -207,7 +207,9 @@ There were many times during the production of my project where something went v
 
 ### Project description ###
 
-This project is designed to be a completely portable, wireless musical instrument for impromptu jams by yourself or with friends. It has a five-note layout and is tuned to a 'C' pentatonic scale with revived analogue character and fuzz. Light permitting, you can take advantage of the on-board pitch modulation using the sliding tab on the left side of the housing. In bright light, the pitches are an octave higher than in low light. The sliding tab allows for the pitch to smoothly glissando down to the lower octave.
+This project is designed to be a completely portable, wireless musical instrument for impromptu jams by yourself or with friends. It has a five-note layout and is tuned to a 'C' pentatonic scale with revived analogue character and fuzz. Light permitting, you can take advantage of the on-board pitch modulation using the sliding tab on the left side of the housing. In bright light, the pitches are an octave higher than in low light. The sliding tab allows for the pitch to smoothly glissando down to the lower octave. Below is the link to watch the demonstration video.
+
+https://youtu.be/Qi0sSMEIp8w
 
 
 ### Showcase image ###
