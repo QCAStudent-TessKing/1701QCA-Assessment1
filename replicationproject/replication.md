@@ -2,13 +2,18 @@
 
 
 ## Banana Piano ##
-Play notes with the microbit!
+
+*Play notes with the microbit!*
+
+This is the project I chose to reproduce and expand upon.
+
 
 ## Related projects ##
-*Find about 6 related projects to the project you choose. A project might be related through  function, technology, materials, fabrication, concept, or code. Don't forget to place an image of the related project in the* `replicationproject` *folder and insert the filename in the appropriate places below. Copy the markdown block of code below for each project you are showing, updating the number* `1` *in the subtitle for each.*
+
 
 ### Nintendo Labo ###
-Piano
+
+*Piano?*
 
 https://www.youtube.com/watch?v=2n6jDBSeso0
 
@@ -17,7 +22,8 @@ https://www.youtube.com/watch?v=2n6jDBSeso0
 This product serves as the inspiration for the aesthetics as well as some parts of the functional design such as the key and slider mechanics. However, due some material and process restrictions, the original mechanics had to be adapted to be suitable for use with the microbit. 
 
 ### Makecode Microbit - Guitar ###
-It's more like a theremin, but at least it looks like a guitar!
+
+*It's more like a theremin, but at least it looks like a guitar!*
 
 https://makecode.microbit.org/projects/guitar
 
@@ -26,7 +32,8 @@ https://makecode.microbit.org/projects/guitar
 The microbit guitar project presents some interesting concepts and explains well enough how to utilise some on board features like the light level sensor built into the microbit screen. I employed this demonstration as a way to add some versatility and variety to my own project. 
  
 ### John Ferguson - Spike of Noise ###
-A touchable jumble of spikes that, on occassion, make noise.
+
+*A touchable jumble of spikes that, on occasion, make noise.*
 
 https://vimeo.com/298521980
 
@@ -35,7 +42,8 @@ https://vimeo.com/298521980
 I was inspired by the simplistic approach to interactivity on display here. Simple conductive material covers certain areas of the spikes which allow for the user's body to close the circuit between points. 
 
 ### Anders Lind - LINES ###
-There are lines going in all dimensions.
+
+*There are lines going in all dimensions.*
 
 https://vimeo.com/298521980
 
@@ -45,7 +53,8 @@ While this example may be a little too far in the realm of impossibility for my 
 
 
 ### Piano Stairs ###
-Created originally by Volkswagen in the Odenplan subway station to encourage people to use the stairs.
+
+*Created originally by Volkswagen in the Odenplan subway station to encourage people to use the stairs.*
 
 https://www.youtube.com/watch?v=2lXh2n0aPyw
 
@@ -54,7 +63,8 @@ https://www.youtube.com/watch?v=2lXh2n0aPyw
 This is another wonderful example of a simple concept coming together cohesively and achieves a goal well. 
 
 ### Coplay ###
-Designed and created by Haoyi Xu and Sun Yuxuan to explore the outer constraints of music composition methodology. 
+
+*Designed and created by Haoyi Xu and Sun Yuxuan to explore the outer constraints of music composition methodology.*
 
 https://www.youtube.com/watch?v=kVwK4axzPeg&feature=emb_logo
 
@@ -162,7 +172,7 @@ There were many times during the production of my project where something went v
 
 ![Testing 1](https://user-images.githubusercontent.com/62095800/77820479-55caa680-712e-11ea-8ccc-af66e76b2b28.jpg)
 
-*Here I encountered my first real problem. I had always thought that in order to trigger the pin to play the note I would simply touch a piece of aluminium foil on the key itself, but some testing found a flaw here. In the banana piano project, they used pin and ground in separate interactions to complete the circuit if you pressed both simultaneously. No matter what I did, this would never produce the same result with aluminium foil and my hands. When I tested it with the 3V it worked, so I decided to go with what worked unquestionably. This still left the problem of how to get one interaction to cause two "plates" of aluminium foil to make contact. This image was taken at the moment I realised I needed to make some modifications. 
+*Here I encountered my first real problem. I had always thought that in order to trigger the pin to play the note I would simply touch a piece of aluminium foil on the key itself, but some testing found a flaw here. In the banana piano project, they used pin and ground in separate interactions to complete the circuit if you pressed both simultaneously. No matter what I did, this would never produce the same result with aluminium foil and my hands. When I tested it with the 3V it worked, so I decided to go with what worked unquestionably. This still left the problem of how to get one interaction to cause two "plates" of aluminium foil to make contact. This image was taken at the moment I realised I needed to make some modifications.*
 
 #### Assembled, Wired and Problem Solved ####
 
@@ -201,7 +211,6 @@ This project is designed to be a completely portable, wireless musical instrumen
 
 
 ### Showcase image ###
-
 
 ![Showcase](https://user-images.githubusercontent.com/62095800/77817862-ecd93380-7119-11ea-9c34-77b0f883c7d8.jpg)
 
