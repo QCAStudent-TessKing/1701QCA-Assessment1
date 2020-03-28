@@ -212,13 +212,11 @@ This project is designed to be a completely portable, wireless musical instrumen
 
 ### Showcase image ###
 
-![Showcase](https://user-images.githubusercontent.com/62095800/77817862-ecd93380-7119-11ea-9c34-77b0f883c7d8.jpg)
+![Showcase Promo](https://user-images.githubusercontent.com/62095800/77822783-98e24500-7141-11ea-8715-1b3702af9fc6.jpg)
 
 ### Additional view ###
 
-*Provide some other image that gives a viewer a different perspective on the project such as more about how it functions, the project in use, or something else.*
-
-![Image](missingimage.png)
+![Additive Promo](https://user-images.githubusercontent.com/62095800/77822784-9b449f00-7141-11ea-8408-83ed4780549d.jpg)
 
 
 ### Reflection ###
