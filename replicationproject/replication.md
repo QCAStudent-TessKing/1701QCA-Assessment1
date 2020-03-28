@@ -104,49 +104,85 @@ There were many times during the production of my project where something went v
 
 ## Process documentation
 
+### Conceptualisations ###
+
+#### First Thoughts ####
+
 ![Original Thoughts](https://user-images.githubusercontent.com/62095800/77817923-3d509100-711a-11ea-9489-e5809b03db1d.jpg)
 
-*Insert Subtitle Here*
+*This was what I wrote in response to completing the banana piano for the first time. I wanted the thoughts that were fresh to see what I should focus on in terms of expansion and improvement*
+
+#### First Sketches ####
 
 ![Original Designs 1](https://user-images.githubusercontent.com/62095800/77817928-3fb2eb00-711a-11ea-9fc3-8d6bf8f24957.jpg)
 
-*Insert Subtitle Here*
+*Prior to any physical modelling or crafting, I drew up some ideas as to what it could look like and why. Please forgive my lack of talent in these drawings, a sense of spatialisation is not a character trait of mine. You can see that in the top right the pivoting key idea in its early stages with possibilities for how to "press" the pin with the action. Unlike my final iteration, the picture of housing was a little different here. I wanted to solve the issue of controlling light level in a purely mechanical way because I felt that it was unnecessary to find a digital/pin solution. In this idea, I would rely on gravity to keep the neutral position of the cover for the microbit face by making an angle that would also serve to put the microbit face closer into comfortable visual range.
+
+#### Sketch in Further Detail ####
 
 ![Original Designs 2](https://user-images.githubusercontent.com/62095800/77817931-42154500-711a-11ea-8317-bbaba4a02c30.jpg)
 
-*Insert Subtitle Here*
+*Here the mechanism for controlling light level is pursued in further detail.*
+
+
+### Construction Process ###
+
+
+#### First Steps ####
 
 ![Construction 1](https://user-images.githubusercontent.com/62095800/77817898-11351000-711a-11ea-9c2f-14909590d085.jpg)
 
-*Insert Subtitle Here*
+*This is simply the main housing pieces after being laser cut. These would be the only pieces laser cut and as we will find out later on, I wish this was not the case, I cannot rule nor cut in a straight line. I decided against the angled housing, due to the fact that I did not know how to go about flattening that 3D shape into a 2D net with fold lines and such.*
 
-![Construction 2](https://user-images.githubusercontent.com/62095800/77817900-12663d00-711a-11ea-8e54-da0bca38e500.jpg)
+#### First Assemblage ####
 
-*Insert Subtitle Here*
+![Construction 2](https://user-images.githubusercontent.com/62095800/77818814-6a547200-7121-11ea-9b4a-17870a04a0b9.jpg)
+
+*This is after the basic, and somewhat painstaking, assemblage of the laser cut housing. Additionally, I have cut and assembled the light control mechanism and the first key. Unlike in the first sketches, the mechanism was not separate parts due to the inconsistency of pushing  a piece of cardboard with another on a flat surface. My solution was to cut out a piece of cardboard that had the sliding tab on one end, and a blob shape on the other end ( Cut down in areas later to suit the space) with small pieces glued to the parts immediately outside and inside of the hole to avoid sliding. The key kept to the sketches but weight needed to be added to allow it to balance properly on the thin piece of cardboard it sat on.*
+
+#### All Keys Made ####
 
 ![Construction 3](https://user-images.githubusercontent.com/62095800/77817902-15612d80-711a-11ea-84bf-76bc479b6c32.jpg)
 
-*Insert Subtitle Here*
+*Here, the other four keys have finished being cut, put together and fitted into the housing*
+
+#### Testing Mechanical Functions - Keys ####
 
 ![Construction 4](https://user-images.githubusercontent.com/62095800/77817903-15f9c400-711a-11ea-89f7-9b6960f277c6.jpg)
 
-*Insert Subtitle Here*
+*This is at the same point of completion but shows a simple test of the mechanical functionality. After some iterations of adding blu-tack in different places and of different amounts, I came to a successful result.*
+
+#### Testing Mechanical Functions - Slider ####
 
 ![Construction 5](https://user-images.githubusercontent.com/62095800/77817907-1b570e80-711a-11ea-94df-db193deeea2e.jpg)
 
-*Insert Subtitle Here*
+*This time I was testing the feel of the sliding mechanism. I, too, was pleased with this result at this stage.*
+
+
+
+#### Assembled, Wired and Problem Solved ####
 
 ![Construction 6](https://user-images.githubusercontent.com/62095800/77817908-1f832c00-711a-11ea-8c9e-17b20fcccaa2.jpg)
 
-*Insert Subtitle Here*
+*I ran into a problem sometime after the previous stage and this one. In my original concept 
+
+
+### Code ###
+
+
+#### Code Testing 1 ####
 
 ![Code Iteration 1](https://user-images.githubusercontent.com/62095800/77817940-4e999d80-711a-11ea-8759-5f494c6e39f8.jpg)
 
 *Insert Subtitle Here*
 
+#### Code Testing 2 #### 
+
 ![Code Iteration 2](https://user-images.githubusercontent.com/62095800/77817941-4fcaca80-711a-11ea-8690-53d7cf2860d2.jpg)
 
 *Insert Subtitle Here*
+
+#### Final Code ####
 
 ![Final Code](https://user-images.githubusercontent.com/62095800/77817938-4d687080-711a-11ea-80cf-21dfc6aca5ca.png)
 
