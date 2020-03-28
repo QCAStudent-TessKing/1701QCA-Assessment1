@@ -70,7 +70,7 @@ https://www.youtube.com/watch?v=kVwK4axzPeg&feature=emb_logo
 
 ![Coplay](https://user-images.githubusercontent.com/62095800/77817876-f6fb3200-7119-11ea-995e-5648c9384301.png)
 
-This is another wonderful example of a simple concept coming together cohesively and achieves a goal well. 
+I appreciate the specific goal of this installation. It states its intentions concretely and boldly strives for that mark. It challenges perceptions among a set audience and keeps the concept simple.
 
 
 ## Reading reflections ##
